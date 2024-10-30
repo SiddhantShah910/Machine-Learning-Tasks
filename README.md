@@ -1,4 +1,4 @@
-# Siddhant Shah's Machine Learning Predictions
+# Machine Learning Predictions
 
 This repository contains two tasks demonstrating the application of supervised and unsupervised machine learning techniques using Python. 
 
